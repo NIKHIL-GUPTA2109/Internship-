@@ -9,7 +9,7 @@ GET /api/works/
 
 Query parameters
 artist: Artist name
-work_type: Work type (Youtube, Instagram, Other)
+work_type: Work type Youtube, Instagram, Other.
 Register
 Create a new user.
 
